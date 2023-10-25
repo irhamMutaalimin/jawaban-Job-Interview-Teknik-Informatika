@@ -1,19 +1,22 @@
 ## 1.1 Latar Belakang
-Latar belakang dari Game edukasi berbasis "drag and drop" adalah ketertarikan saya terhadap Game Edukasi untuk membuat aplikasi yang lebih menarik bagi siswa. Salah satu pendekatan nya adalah game edukasi berbasis "drag and drop" karena game ini tidak hanya memberikan cara yang menyenangkan untuk belajar, tetapi juga dapat membantu siswa memahami dan mengingat materi dengan lebih baik.
+Latar belakang dari Game edukasi berbasis "drag and drop" adalah ketertarikan saya terhadap dunia game,Game Edukasi yang ingin saya buat harus menarik dan disukai oleh banyak orang terutama siswa-siswa sekolah dasar. Salah satu caranya adalah dengan membuat game edukasi berbasis "drag and drop" karena game ini tidak hanya memberikan cara yang menyenangkan untuk belajar, tetapi juga dapat membantu siswa memahami dan mengingat materi dengan bermain game yang menyenangkan.
 
 ## 1.2. Deksripsi Teknologi Informasi
-Teknologi informasi yang digunakan dalam game edukasi berbasis "drag and drop" seperti perangkat lunak, antarmuka pengguna (UI), dan algoritma yang memungkinkan siswa untuk dapat mengembangkan ilmunya dan memperoleh pengetahuan yang baru.
+Teknologi informasi yang digunakan dalam game edukasi berbasis "drag and drop" seperti perangkat lunak, antarmuka pengguna (UI), dan algoritma yang akan mendukung pengembangan game edukasi ini. 
+Teknologi informasi yang digunakan dalam game ini berupa :
+- Platform Pengembangan Game berupa Unity.
+- Bahasa Pemrograman yang di gunakan berupa C# bahasa pemrograman yang biasa digunakan saat mengembangkan game dengan Unity.
+- Desain Grafis dan Animasi yang berupa Aset permainan seperti karakter, latar belakang, dan objek grafis lainnya.
 
 ## 1.3. Branding
     
 - NamaGame: Belajar Bareng Si DD   
 - Tagline : Ambil dan Letakkan Pengetahuanmu Sekarang    
-- Campaign: Jelajahi Dunia Belajar yang baru dengan Game Seru Berbasis Seret dan Letakkan    
+- Campaign: Jelajahi Dunia Belajar yang baru dengan Game Seru Berbasis Ambil dan Letakkan    
 - target user :    
   - Siswa 6+
   - Orang Tua
   - Guru
-
 
 ## 2. User Story 
 
