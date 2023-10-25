@@ -5,14 +5,25 @@ Latar belakang dari Game edukasi berbasis "drag and drop" adalah ketertarikan sa
 Teknologi informasi yang digunakan dalam game edukasi berbasis "drag and drop" seperti perangkat lunak, antarmuka pengguna (UI), dan algoritma yang memungkinkan siswa untuk dapat mengembangkan ilmunya dan memperoleh pengetahuan yang baru.
 
 ## 1.3. Branding
+    
+- NamaGame: Belajar Bareng Si DD   
+- Tagline : Ambil dan Letakkan Pengetahuanmu Sekarang    
+- Campaign: Jelajahi Dunia Belajar yang baru dengan Game Seru Berbasis Seret dan Letakkan    
+- target user :    
+  - Siswa 6+
+  - Orang Tua
+  - Guru
 
 
+## 2. User Story 
 
-## 2. User Story
-
-bla | bla | bla | bla
+Sebagai|yang dilakukan | Sehingga | prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+seorang siswa kelas 4 sd dan ingin memahami nama nama pelanet dalam tata surya| Membuka game dan menyelesaikan game nya  | sisiwa trsebut dapat mengetahui nama nama pelanet dan tata letaknya di tata surya| ⭐⭐⭐⭐⭐
+Seorang anak yang ingin belajar tentang warna-warna dasar |	Menjalankan game dan menyelesaikn game tentang warna warna dasaar | Mengenal dan mengingat nama-nama warna dengan lebih baik| ⭐⭐⭐⭐⭐
+Siswa Kelas 1 yang ingin mengetahui nama nama presiden indonesia | membuka game dan menyelesaikan game nya | siswa tersebut dapat mengetahui nama nama presiden dan melihat foto fotonya | ⭐⭐⭐⭐⭐
+Orang tua yang ingin membantu anaknya untuk mengenal sistem pencernaan pada manusia | membuka dan menyelesaikan game tentang pencernaan pada manusia | orang tua dapat memberikan beberapa pesan kepada anaknya untuk menjaga kesehatan pencernaaanyya|  ⭐⭐⭐⭐⭐
+Guru Bahasa inggris yang ingin melihat kemampuan para muridnya dalam menguasai kosakata bahasa inggris | membuka dan menyelesaikan game tentan kosakata  bahsa inggrisnya | guru dapat mengetahui sejauh mana muridnya mengetahui kosakata bahasa inggrisnya|  ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
@@ -20,22 +31,36 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+   
+    GAME||--o{ OBJECT : memiliki
+    PEMAIN ||--o{ GAME : bermain
+    PEMAIN ||--o{ SKOR : memiliki
+
 ```
 
 ## 4. Arsitektur Sistem
+```mermaid  
+erDiagram
+   
+    FRONTEND ||--o{ UNITY : memiliki
+    BACKEND ||--o{ Csharp : memiliki
+    Csharp ||--o{ PostgreSQL : memiliki
+
+```
+- Frontend adalah bagian dari aplikasi yang terlihat dan diakses oleh pengguna.
+- Backend adalah bagian tersembunyi dari aplikasi yang bekerja di balik layar.
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
 
 ## 5. Teknologi, Library, dan Framework
-
-bla bla bla
-
+- Unity Game Engine
+- C# Programming Language
+- studio code
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+<img width="469" alt="Screenshot 2023-10-25 074240" src="https://github.com/irhamMutaalimin/jawaban-Job-Interview-Teknik-Informatika/assets/144558007/44e8f063-3493-4560-a9d8-38663e336420">
+
 
 ## 7. Demonstrasi Video
 
