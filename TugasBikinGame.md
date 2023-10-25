@@ -19,11 +19,11 @@ Teknologi informasi yang digunakan dalam game edukasi berbasis "drag and drop" s
 
 Sebagai|yang dilakukan | Sehingga | prioritas
 ---|---|---|---
-seorang siswa kelas 4 sd dan ingin memahami nama nama pelanet dalam tata surya| Membuka game dan menyelesaikan game nya  | sisiwa trsebut dapat mengetahui nama nama pelanet dan tata letaknya di tata surya| ⭐⭐⭐⭐⭐
-Seorang anak yang ingin belajar tentang warna-warna dasar |	Menjalankan game dan menyelesaikn game tentang warna warna dasaar | Mengenal dan mengingat nama-nama warna dengan lebih baik| ⭐⭐⭐⭐⭐
-Siswa Kelas 1 yang ingin mengetahui nama nama presiden indonesia | membuka game dan menyelesaikan game nya | siswa tersebut dapat mengetahui nama nama presiden dan melihat foto fotonya | ⭐⭐⭐⭐⭐
-Orang tua yang ingin membantu anaknya untuk mengenal sistem pencernaan pada manusia | membuka dan menyelesaikan game tentang pencernaan pada manusia | orang tua dapat memberikan beberapa pesan kepada anaknya untuk menjaga kesehatan pencernaaanyya|  ⭐⭐⭐⭐⭐
-Guru Bahasa inggris yang ingin melihat kemampuan para muridnya dalam menguasai kosakata bahasa inggris | membuka dan menyelesaikan game tentan kosakata  bahsa inggrisnya | guru dapat mengetahui sejauh mana muridnya mengetahui kosakata bahasa inggrisnya|  ⭐⭐⭐⭐⭐
+Pengguna : seorang siswa kelas 4 sd dan ingin memahami nama nama pelanet dalam tata surya| Membuka game dan menyelesaikan game nya  | sisiwa trsebut dapat mengetahui nama nama pelanet dan tata letaknya di tata surya| ⭐⭐⭐⭐⭐
+Pengguna : Seorang anak yang ingin belajar tentang warna-warna dasar |	Menjalankan game dan menyelesaikn game tentang warna warna dasaar | Mengenal dan mengingat nama-nama warna dengan lebih baik| ⭐⭐⭐⭐⭐
+Pengguna : Siswa Kelas 1 yang ingin mengetahui nama nama presiden indonesia | membuka game dan menyelesaikan game nya | siswa tersebut dapat mengetahui nama nama presiden dan melihat foto fotonya | ⭐⭐⭐⭐⭐
+Pengguna : Orang tua yang ingin membantu anaknya untuk mengenal sistem pencernaan pada manusia | membuka dan menyelesaikan game tentang pencernaan pada manusia | orang tua dapat memberikan beberapa pesan kepada anaknya untuk menjaga kesehatan pencernaaanyya|  ⭐⭐⭐⭐⭐
+Pengguna : Guru Bahasa inggris yang ingin melihat kemampuan para muridnya dalam menguasai kosakata bahasa inggris | membuka dan menyelesaikan game tentan kosakata  bahsa inggrisnya | guru dapat mengetahui sejauh mana muridnya mengetahui kosakata bahasa inggrisnya|  ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
