@@ -1,5 +1,5 @@
 ## 1.1 Latar Belakang
-Latar belakang dari Game edukasi berbasis "drag and drop" adalah ketertarikan saya terhadap dunia game,Game Edukasi yang ingin saya buat harus menarik dan disukai oleh banyak orang terutama siswa-siswa sekolah dasar. Salah satu caranya adalah dengan membuat game edukasi berbasis "drag and drop" karena game ini tidak hanya memberikan cara yang menyenangkan untuk belajar, tetapi juga dapat membantu siswa memahami dan mengingat materi dengan bermain game yang menyenangkan.
+Latar belakang dari Game edukasi berbasis "drag and drop" adalah berawal dari ketertarikan saya terhadap dunia game,Game edukasi terutama game berbasis "drag and drop", memiliki potensi untuk memberikan cara belajar yang menarik dan efektif, terutama bagi siswa sekolah dasar. Game berbasis "drag and drop" unik karena memungkinkan siswa memahami dan mengingat materi dengan cara yang lebih mudah dari pada metode pembelajaran seperti biasanya.Game edukasi juga dapat meningkatkan kualitas pembelajaran, saya bertujuan untuk membuat game yang tidak hanya mendidik tetapi juga menyenangkan. Saya berharap game yang saya buat akan menjadi alat yang bermanfaat bagi guru dan siswa dalam proses pembelajaran mereka. Salah satu caranya adalah dengan membuat game edukasi "Belajar bareng si DD" berbasis "drag and drop"  karena game ini tidak hanya memberikan cara yang menyenangkan untuk belajar, tetapi juga dapat membantu siswa memahami dan mengingat materi dengan cara atau penyampaian yang berbeda.
 
 ## 1.2. Deksripsi Teknologi Informasi
 Teknologi informasi yang digunakan dalam game edukasi berbasis "drag and drop" seperti perangkat lunak, antarmuka pengguna (UI), dan algoritma yang akan mendukung pengembangan game edukasi ini. 
@@ -43,11 +43,11 @@ erDiagram
 
 ## 4. Arsitektur Sistem
 ```mermaid  
-erDiagram
    
-    FRONTEND ||--o{ UNITY : memiliki
-    BACKEND ||--o{ Csharp : memiliki
-    Csharp ||--o{ PostgreSQL : memiliki
+    graph TD;
+    FRONTEND --> UNITY;
+    BACKEND --> Csharp;
+    Csharp --> PostgreSQL;
 
 ```
 - Frontend adalah bagian dari aplikasi yang terlihat dan diakses oleh pengguna.
