@@ -1,5 +1,5 @@
 ## 1.1 Latar Belakang
-Latar belakang dari Game edukasi berbasis "drag and drop" adalah berawal dari ketertarikan saya terhadap dunia game,Game edukasi terutama game berbasis "drag and drop",yang memiliki potensi besar untuk memberikan cara belajar yang menarik dan efektif, terutama bagi siswa sekolah dasar. Game berbasis "drag and drop" menarik karena memungkinkan siswa memahami dan mengingat materi dengan cara yang lebih mudah dari pada metode pembelajaran di kelas.Game edukasi ini juga dapat meningkatkan kualitas pembelajaran terhadap pengetahuan para siswa-siswa ketika tidak berada di sekolah, saya bertujuan untuk membuat game yang tidak hanya mendidik tetapi juga menyenangkan. Saya berharap game yang saya buat akan menjadi sesuatu yang bermanfaat bagi guru dan siswa dalam proses pembelajaran mereka. Salah satu caranya adalah dengan membuat game edukasi "Belajar bareng si DD" berbasis "drag and drop"  karena game ini tidak hanya memberikan cara yang menyenangkan untuk belajar, tetapi juga dapat membantu siswa memahami dan mengingat materi dengan cara atau penyampaian yang berbeda.
+Latar belakang dari Game edukasi berbasis "drag and drop" adalah berawal dari ketertarikan saya terhadap dunia game,terutama pada  game edukasi berbasis "drag and drop",yang memiliki potensi besar untuk memberikan cara belajar yang menarik dan efektif, terutama bagi siswa sekolah dasar. Game berbasis "drag and drop" menarik karena memungkinkan siswa memahami dan mengingat materi dengan cara yang lebih mudah dari pada metode pembelajaran di kelas.Game edukasi ini juga dapat meningkatkan kualitas pembelajaran terhadap pengetahuan para siswa-siswa ketika tidak berada di sekolah, saya bertujuan untuk membuat game yang tidak hanya mendidik tetapi juga menyenangkan. Saya berharap game yang saya buat akan menjadi sesuatu yang bermanfaat bagi guru dan siswa dalam proses pembelajaran mereka. Salah satu caranya adalah dengan membuat game edukasi "Belajar bareng si DD" berbasis "drag and drop"  karena game ini tidak hanya memberikan cara yang menyenangkan untuk belajar, tetapi juga dapat membantu siswa memahami dan mengingat materi dengan cara atau penyampaian yang berbeda.
 
 ## 1.2. Deksripsi Teknologi Informasi
 Teknologi informasi yang digunakan dalam game edukasi berbasis "drag and drop" seperti perangkat lunak, antarmuka pengguna (UI), dan algoritma yang akan mendukung pengembangan game edukasi ini. 
@@ -49,13 +49,13 @@ erDiagram
    
    %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-subgraph "One"
-  a("`The **cat**
-  in the hat`") -- "edge label" --> b{{"`The **dog** in the hog`"}}
+subgraph " "
+  a("FRONTEND
+  ") -- "MEMILIKI" --> b{{"UNITY"}}
 end
-subgraph "`**Two**`"
-  c("`The **cat**
-  in the hat`") -- "`Bold **edge label**`" --> d("The dog in the hog")
+subgraph "****"
+  c("BACKEND
+  ") -- " MEMILIKI " --> d("Csharp")-- " MEMILIKI " --> e("PostgreSQL")
 end
 
 ```
