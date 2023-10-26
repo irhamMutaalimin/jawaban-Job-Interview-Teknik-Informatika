@@ -40,14 +40,23 @@ erDiagram
     PEMAIN ||--o{ SKOR : memiliki
 
 ```
-
-## 4. Arsitektur Sistem
-```mermaid  
-   
-    graph TD;
+ graph TD;
     FRONTEND --> UNITY;
     BACKEND --> Csharp;
     Csharp --> PostgreSQL;
+## 4. Arsitektur Sistem
+```mermaid  
+   
+   %%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+subgraph "One"
+  a("`The **cat**
+  in the hat`") -- "edge label" --> b{{"`The **dog** in the hog`"}}
+end
+subgraph "`**Two**`"
+  c("`The **cat**
+  in the hat`") -- "`Bold **edge label**`" --> d("The dog in the hog")
+end
 
 ```
 - Frontend adalah bagian dari aplikasi yang terlihat dan diakses oleh pengguna.
