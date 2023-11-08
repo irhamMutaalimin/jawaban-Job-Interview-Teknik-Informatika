@@ -27,6 +27,7 @@ Pengguna : Seorang anak yang ingin belajar tentang warna-warna dasar |	Menjalank
 Pengguna : Siswa Kelas 1 yang ingin mengetahui nama nama presiden indonesia | membuka game dan menyelesaikan game nya | siswa tersebut dapat mengetahui nama nama presiden dan melihat foto fotonya | ⭐⭐⭐⭐⭐
 Pengguna : Orang tua yang ingin membantu anaknya untuk mengenal sistem pencernaan pada manusia | membuka dan menyelesaikan game tentang pencernaan pada manusia | orang tua dapat memberikan beberapa pesan kepada anaknya untuk menjaga kesehatan pencernaaanyya|  ⭐⭐⭐⭐⭐
 Pengguna : Guru Bahasa inggris yang ingin melihat kemampuan para muridnya dalam menguasai kosakata bahasa inggris | membuka dan menyelesaikan game tentan kosakata  bahsa inggrisnya | guru dapat mengetahui sejauh mana muridnya mengetahui kosakata bahasa inggrisnya|  ⭐⭐⭐⭐⭐
+Pengguna  : Siswa Kelas 2 yang ingin Belajar Tentang Huruf dan Kata |  Memainkan game dan siswa menyusun huruf untuk membentuk kata |sehingga siswa dapat Meningkatkan pemahaman huruf dan kata |⭐⭐⭐⭐ 
 
 ## 3. Struktur Data
 
