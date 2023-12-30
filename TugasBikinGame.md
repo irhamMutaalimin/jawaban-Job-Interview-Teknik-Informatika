@@ -40,30 +40,47 @@ Pemain | yang dilakukan ingin adanya variasi desain level atau latar belakang un
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
 ```mermaid
-erDiagram
-   
-    GAME||--o{ OBJECT : memiliki
-    PEMAIN ||--o{ GAME : bermain
-    PEMAIN ||--o{ SKOR : memiliki
+graph LR;
+    A[Pemain] -->|Menjawab| B[Pertanyaan];
+    A -->|Mengelola Skor| C[Skor];
+    A -->|Mengelola Waktu| D[Waktu];
+    A -->|Memainkan Game| E[Game];
+    A -->|Mengelola Suara| F[Suara];
+    A -->|Melihat Gambar| G[Gambar];
+    A -->|Memainkan Permainan| H[Permainan];
+
+    style A fill:#76b7f4,stroke:#333,stroke-width:2px;
+    style B fill:#ffcc66;
+    style C fill:#ffcc66;
+    style D fill:#ffcc66;
+    style E fill:#ffcc66;
+    style F fill:#ffcc66;
+    style G fill:#ffcc66;
+    style H fill:#ffcc66;
+
 
 ```
  graph TD;
-    FRONTEND --> UNITY;
-    BACKEND --> Csharp;
-    Csharp --> PostgreSQL;
 ## 4. Arsitektur Sistem
 ```mermaid  
    
-   %%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart LR
-subgraph " "
-  a("FRONTEND
-  ") -- "MEMILIKI" --> b{{"UNITY"}}
-end
-subgraph "****"
-  c("BACKEND
-  ") -- " MEMILIKI " --> d("Csharp")-- " MEMILIKI " --> e("PostgreSQL")
-end
+ graph TD;
+    A[Aplikasi Game] -->|Mengatur Pertanyaan| B[Pertanyaan];
+    A -->|Mengelola Jawaban| C[Jawaban];
+    A -->|Mengatur Skor| D[Skor];
+    A -->|Manajemen Waktu| E[Waktu];
+    A -->|Manajemen Suara| F[Suara];
+    A -->|Manajemen Gambar| G[Gambar];
+    A -->|Manajemen Permainan| H[Permainan];
+
+    style A fill:#76b7f4,stroke:#333,stroke-width:2px;
+    style B fill:#ffcc66;
+    style C fill:#ffcc66;
+    style D fill:#ffcc66;
+    style E fill:#ffcc66;
+    style F fill:#ffcc66;
+    style G fill:#ffcc66;
+    style H fill:#ffcc66;
 
 ```
 - Frontend adalah bagian dari aplikasi yang terlihat dan diakses oleh pengguna.
@@ -72,13 +89,22 @@ end
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
 
 ## 5. Teknologi, Library, dan Framework
-- Unity Game Engine
-- C# Programming Language
-- studio code
+Teknologi:
+- Java: Bahasa pemrograman utama yang digunakan untuk mengembangkan game.
+- Java Swing: Digunakan untuk membangun antarmuka pengguna (GUI).
+- Java Sound API: Untuk memainkan suara dalam permainan.
+
+Library & Framework:
+- Javax.swing: Untuk komponen GUI seperti tombol, label, dan panel.
+- javax.sound.sampled: Library untuk bekerja dengan audio dalam Java.
+- java.awt: Untuk manajemen tata letak dan elemen antarmuka.
+- javax.swing.Timer: Untuk mengatur waktu dalam game.
+
+
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-<img width="469" alt="Screenshot 2023-10-25 074240" src="https://github.com/irhamMutaalimin/jawaban-Job-Interview-Teknik-Informatika/assets/144558007/44e8f063-3493-4560-a9d8-38663e336420">
+<img width="294" alt="Screenshot 2023-12-30 232625" src="https://github.com/irhamMutaalimin/jawaban-Job-Interview-Teknik-Informatika/assets/144558007/fddf1340-83f6-48a8-ab69-af7721ee0723">
+<img width="293" alt="Screenshot 2023-12-30 232518" src="https://github.com/irhamMutaalimin/jawaban-Job-Interview-Teknik-Informatika/assets/144558007/d2153647-ae40-4d85-9be9-8379907c1d4f">
 
 
 ## 7. Demonstrasi Video
