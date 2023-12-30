@@ -10,11 +10,11 @@ Teknologi informasi yang digunakan dalam game ini berupa :
 
 ## 1.3. Branding
     
-- NamaGame: Belajar Bareng Si DD   
-- Tagline : Ambil dan Letakkan Pengetahuanmu Sekarang    
-- Campaign: Jelajahi Dunia Belajar yang baru dengan Game Seru Berbasis Ambil dan Letakkan    
+- NamaGame: JavaQuest
+- Tagline : "Jelajahi,Pelajari,dan Nikmati'    
+- Campaign: Game Edukasi yang Memikat Hati: JavaQuest    
 - target user :    
-  - Siswa 6+
+  - Siswa 8+
   - Orang Tua
   - Guru
 
