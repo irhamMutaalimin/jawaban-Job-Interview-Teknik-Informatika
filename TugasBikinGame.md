@@ -1,5 +1,5 @@
 ## 1.1 Latar Belakang
-Latar belakang dari Game edukasi berbasis "drag and drop" adalah berawal dari ketertarikan saya terhadap dunia game,terutama pada  game edukasi berbasis "drag and drop",yang memiliki potensi besar untuk memberikan cara belajar yang menarik dan efektif, terutama bagi siswa sekolah dasar. Game berbasis "drag and drop" menarik karena memungkinkan siswa memahami dan mengingat materi dengan cara yang lebih mudah dari pada metode pembelajaran di kelas.Game edukasi ini juga dapat meningkatkan kualitas pembelajaran terhadap pengetahuan para siswa-siswa ketika tidak berada di sekolah, saya bertujuan untuk membuat game yang tidak hanya mendidik tetapi juga menyenangkan. Saya berharap game yang saya buat akan menjadi sesuatu yang bermanfaat bagi guru dan siswa dalam proses pembelajaran mereka. Salah satu caranya adalah dengan membuat game edukasi "Belajar bareng si DD" berbasis "drag and drop"  karena game ini tidak hanya memberikan cara yang menyenangkan untuk belajar, tetapi juga dapat membantu siswa memahami dan mengingat materi dengan cara atau penyampaian yang berbeda.
+Latar belakang dari Game kuis edukasi ini adalah berawal dari ketertarikan saya terhadap dunia game,terutama pada  game edukasi,yang memiliki potensi besar untuk memberikan cara belajar yang menarik dan efektif, terutama bagi siswa sekolah dasar. Game kuis ini menurut saya sangat  menarik karena memungkinkan siswa memahami dan mengingat materi dengan cara yang lebih mudah dari pada metode pembelajaran di kelas.Game edukasi ini juga dapat meningkatkan kualitas pembelajaran terhadap pengetahuan para siswa-siswa ketika tidak berada di sekolah, saya bertujuan untuk membuat game yang tidak hanya mendidik tetapi juga menyenangkan. Saya berharap game yang saya buat akan menjadi sesuatu yang bermanfaat bagi guru dan siswa dalam proses pembelajaran mereka. Salah satu caranya adalah dengan membuat game kuis edukasi "JavaQuest" berbasis "  karena game ini tidak hanya memberikan cara yang menyenangkan untuk belajar, tetapi juga dapat membantu siswa memahami dan mengingat materi dengan cara atau penyampaian yang berbeda.
 
 ## 1.2. Deksripsi Teknologi Informasi
 Teknologi informasi yang digunakan dalam game Kuis edukasi seperti perangkat lunak, antarmuka pengguna (UI), dan algoritma yang akan mendukung pengembangan game edukasi ini. 
@@ -22,13 +22,19 @@ Teknologi informasi yang digunakan dalam game ini berupa :
 
 Sebagai|yang dilakukan | Sehingga | prioritas
 ---|---|---|---
-Pengguna : seorang siswa kelas 4 sd dan ingin memahami nama nama pelanet dalam tata surya| Membuka game dan menyelesaikan game nya  | sisiwa trsebut dapat mengetahui nama nama pelanet dan tata letaknya di tata surya| ⭐⭐⭐⭐⭐
-Pengguna : Seorang anak yang ingin belajar tentang warna-warna dasar |	Menjalankan game dan menyelesaikn game tentang warna warna dasaar | Mengenal dan mengingat nama-nama warna dengan lebih baik| ⭐⭐⭐⭐⭐
-Pengguna : Siswa Kelas 1 yang ingin mengetahui nama nama presiden indonesia | membuka game dan menyelesaikan game nya | siswa tersebut dapat mengetahui nama nama presiden dan melihat foto fotonya | ⭐⭐⭐⭐⭐
-Pengguna : Orang tua yang ingin membantu anaknya untuk mengenal sistem pencernaan pada manusia | membuka dan menyelesaikan game tentang pencernaan pada manusia | orang tua dapat memberikan beberapa pesan kepada anaknya untuk menjaga kesehatan pencernaaanyya|  ⭐⭐⭐⭐⭐
-Pengguna : Guru Bahasa inggris yang ingin melihat kemampuan para muridnya dalam menguasai kosakata bahasa inggris | membuka dan menyelesaikan game tentan kosakata  bahsa inggrisnya | guru dapat mengetahui sejauh mana muridnya mengetahui kosakata bahasa inggrisnya|  ⭐⭐⭐⭐⭐
-Pengguna  : Siswa Kelas 2 yang ingin Belajar Tentang Huruf dan Kata |  Memainkan game dan siswa menyusun huruf untuk membentuk kata |sehingga siswa dapat Meningkatkan pemahaman huruf dan kata |⭐⭐⭐⭐ 
-
+Seorang pemain baru | membuka game nya |  Bisa memainkan game ini | ⭐⭐⭐⭐⭐
+Seorang pemain baru | memainkan game ini | Bisa menamatkan Game ini | ⭐⭐⭐⭐⭐
+seorang pemain baru | menekan jawaban benar | Bisa Lanjut ke Soal berikutnya |⭐⭐⭐⭐⭐
+Seorang pemain | memilih pilihan level kesulitan agar dapat menyesuaikan tantangan sesuai dengan tingkatanyya | permainan lebih menarik dan menantang |  ⭐⭐⭐⭐⭐
+pembuat Game  |  menambahkan fitur penyimpanan progress sehingga bisa melanjutkan permainan dari level terakhir yang telah saya capai | pencapaian  terjauh dari sang pemain tersimpan | ⭐⭐⭐⭐⭐
+pembuat Game  |  menambahkan  variasi pertanyaan sehingga setiap kali bermain, saya dapat menikmati pengalaman yang berbeda | pemain  tidak bosan memainkan game nya  | ⭐⭐⭐⭐⭐
+pembuat game  | menambahkan sistem skor atau peringkat untukdibandingkan dengan pemain lainnya |  ada motivasi dari pemainlain untuk meningkatkan kemampuan | ⭐⭐⭐⭐⭐
+pembuat game  | menambahkan antarmuka yang ramah pengguna agar bisa dengan mudah menjawab pertanyaan dalam game nya  | bermain gamenya  lebih nyaman | ⭐⭐⭐⭐⭐
+pemain |  melihat petunjuk saat menemui pertanyaan yang sulit | tidak terjebak dalam satu level terlalu lama | ⭐⭐⭐⭐⭐
+Pembuat Game | menambahkan video untuk membantu pemain yang kesusahan dalamlevel tertentu | agar pemin tidak terjebak dalam satu level terlalu lama | ⭐⭐⭐⭐⭐
+Pembuat Game|  ingin menambhakan fitur ulang pertanyaan yang sudah dijawab | pemain bisa lebih memahami setiap level  yang dipelajari | ⭐⭐⭐⭐⭐
+pemain | ingin melihat pertanyaan atau pun level yang sudah di selesaikan | pemain bisa lebih memahami setiap level  yang dipelajari |⭐⭐⭐⭐⭐
+Pemain | yang dilakukan ingin adanya variasi desain level atau latar belakang untuk menjaga ketertarikan visual saat bermain | Sehingga permainan terasa lebih segar dan menarik | ⭐⭐⭐⭐⭐
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
