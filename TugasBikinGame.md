@@ -2,11 +2,11 @@
 Latar belakang dari Game edukasi berbasis "drag and drop" adalah berawal dari ketertarikan saya terhadap dunia game,terutama pada  game edukasi berbasis "drag and drop",yang memiliki potensi besar untuk memberikan cara belajar yang menarik dan efektif, terutama bagi siswa sekolah dasar. Game berbasis "drag and drop" menarik karena memungkinkan siswa memahami dan mengingat materi dengan cara yang lebih mudah dari pada metode pembelajaran di kelas.Game edukasi ini juga dapat meningkatkan kualitas pembelajaran terhadap pengetahuan para siswa-siswa ketika tidak berada di sekolah, saya bertujuan untuk membuat game yang tidak hanya mendidik tetapi juga menyenangkan. Saya berharap game yang saya buat akan menjadi sesuatu yang bermanfaat bagi guru dan siswa dalam proses pembelajaran mereka. Salah satu caranya adalah dengan membuat game edukasi "Belajar bareng si DD" berbasis "drag and drop"  karena game ini tidak hanya memberikan cara yang menyenangkan untuk belajar, tetapi juga dapat membantu siswa memahami dan mengingat materi dengan cara atau penyampaian yang berbeda.
 
 ## 1.2. Deksripsi Teknologi Informasi
-Teknologi informasi yang digunakan dalam game edukasi berbasis "drag and drop" seperti perangkat lunak, antarmuka pengguna (UI), dan algoritma yang akan mendukung pengembangan game edukasi ini. 
+Teknologi informasi yang digunakan dalam game Kuis edukasi seperti perangkat lunak, antarmuka pengguna (UI), dan algoritma yang akan mendukung pengembangan game edukasi ini. 
 Teknologi informasi yang digunakan dalam game ini berupa :
-- Platform Pengembangan Game berupa Unity.
-- Bahasa Pemrograman yang di gunakan berupa C# bahasa pemrograman yang biasa digunakan saat mengembangkan game dengan Unity.
-- Desain Grafis dan Animasi yang berupa Aset permainan seperti karakter, latar belakang, dan objek grafis lainnya.
+- Platform pengembangan utama game ini menggunakan IntelliJ IDEA
+- Bahasa pemrograman yang digunakan adalah Java,
+- Antarmuka pengguna grafis (GUI) dalam game ini dikembangkan menggunakan komponen Swing / AWT dari Java. Ini mencakup penggunaan elemen UI seperti JLabel, JButton, dan JRadioButton untuk    membangun tampilan permainan.
 
 ## 1.3. Branding
     
